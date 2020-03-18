@@ -1,2 +1,2 @@
 # BootstrapExempleSite
-Site exemplo feito para treinar componentes do Boostrap
+Site exemplo feito para treinar componentes do Bootstrap
